@@ -30,9 +30,10 @@ twitter_username: fatratdev
 github_username:  capSAR273
 
 # Build settings
-theme: no-style-please
+remote-theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
